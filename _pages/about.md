@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <Strong> Perception, Image processing, Computer Vision, Vision-Language-Model</Strong>.
+Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <span style="color:MediumBlue">**Perception, Image processing, Computer Vision, Vision-Language-Model**</span>.
 
 # 🔥 News
 - *2023.10*: 🎉🎉 Our team won the Grand Prize at the KIST Cultural Exchange Program! 😆
 - *2023.02*: 🎉🎉 A paper I worked on has been accepted to the ICAIIC conference.
 - *2023.02*: 🎉🎉 Our team won the Grand Prize at the SKT AI Hackathon! 🚀🏆
-- *2022.08*: 🎉🎉 I was selected as a Visiting Scholar at Purdue University with support from IITP.
+- *2022.08*: 🎉🎉 I was selected as a Visiting Scholar at <span style="color:MediumBlue">**Purdue University**</span> with support from <span style="color:MediumBlue">**IITP**</span>.
   
 # 📝 Publications 
 - #### A deep learning-based coyote detection system using audio data
