@@ -20,10 +20,10 @@ redirect_from:
 Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. 
 
 # 🔥 News
-- *2023.10*: Our team won the Grand Prize at the KIST Cultural Exchange Program! 😆🎉
-- *2023.02*: A paper I worked on has been accepted to the ICAIIC conference.
-- *2023.02*: Our team won the Grand Prize at the SKT AI Hackathon! 🚀🏆
-- *2022.08*: I was selected as a Visiting Scholar at Purdue University with support from IITP.
+- *2023.10*: 🎉🎉 Our team won the Grand Prize at the KIST Cultural Exchange Program! 😆
+- *2023.02*: 🎉🎉 A paper I worked on has been accepted to the ICAIIC conference.
+- *2023.02*: 🎉🎉 Our team won the Grand Prize at the SKT AI Hackathon! 🚀🏆
+- *2022.08*: 🎉🎉 I was selected as a Visiting Scholar at Purdue University with support from IITP.
   
 # 📝 Publications 
 - #### A deep learning-based coyote detection system using audio data
