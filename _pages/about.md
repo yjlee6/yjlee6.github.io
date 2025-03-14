@@ -35,7 +35,7 @@ Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can c
 - *2022.12 - 2023.02*: SK telecom FLY AI Challenger by SK Telecom
 - *2022.08 - 2023.12*: Visiting Scholar in Purdue University
 - *2022.08 - 2023.10*: Survey Adversarial Attacks and Neural Rendering 
-- *'2022.06 - 2022.10*: Deep learning-based rapid on-site evaluation and prognosis predicting model using 3D Holographic microscopy and single cell RNA sequencing in pancreatic cance
+- *2022.06 - 2022.10*: AI-based pancreatic cancer diagnosis project in collaboration with Dongtan Sacred Heart Hospital
 
 # 🎖 Honors and Awards
 - *2023.02*, SKT AI Hackathon, awarded by SK telecom
