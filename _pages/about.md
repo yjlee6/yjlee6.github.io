@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <span style="color:MediumBlue">**Computer Vision, Perception, 3D-Secene Understanding**</span> and <span style="color:MediumBlue">**Muiltimodal**</span>
+Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <span style="color:MediumBlue">**Computer Vision, Perception, VLM**</span> and <span style="color:MediumBlue">**Muiltimodal**</span>
 
 # 🔥 News
 - *2023.10*: 🎉🎉 Our team won the Grand Prize at the KIST Cultural Exchange Program! 😆
