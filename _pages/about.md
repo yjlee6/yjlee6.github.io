@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <span style="color:MediumBlue">**Computer Vision, Perception, VLM**</span> and <span style="color:MediumBlue">**Muiltimodal**</span>
+Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can coexist, and I'm fascinated by how AI perceives and interprets the world. I have a strong research interest in <span style="color:MediumBlue">**Speech and Language AI, Computer Vision, **</span> and <span style="color:MediumBlue">**Multimodal (Speech, Language, and Vision) AI**</span>
 
 # 🔥 News
+- *2025.09*: 🎉🎉 Entered the Department of Artificial Intelligence at Sungkyunkwan University 🎓
 - *2023.10*: 🎉🎉 Our team won the Grand Prize at the KIST Cultural Exchange Program! 😆
 - *2023.02*: 🎉🎉 A paper I worked on has been accepted to the ICAIIC conference.
 - *2023.02*: 🎉🎉 Our team won <span style="color:MediumBlue">**the Grand Prize**</span> at the SKT AI Hackathon! 🚀🏆
 - *2022.08*: 🎉🎉 I was selected as a Visiting Scholar at <span style="color:MediumBlue">**Purdue University**</span> with support from <span style="color:MediumBlue">**IITP**</span>.
   
 # 📝 Publications 
+- #### Voicing Personas: Rewriting Persona Descriptions into Style Prompts for Controllable Text-to-Speech 
+  <span style="color:MediumBlue">**Yejin Lee**</span>, Jaehoon Kang, Kyuhong Shim <span style="color:MediumBlue">**Arxiv**</span> | [[paper]]([[https://arxiv.org/abs/2505.17093](https://arxiv.org/abs/2505.17093)])
 - #### A deep learning-based coyote detection system using audio data
   Heesun Jung, Bokyung Kwon, Youngbin Kim, <span style="color:MediumBlue">**Yejin Lee**</span>, Jihyeon Park, Griffin Pegg, Yaqin Mia Wang, Anthony H Smith
   <span style="color:MediumBlue">**ICAIIC 2023**</span> | [[paper]]([[https://arxiv.org/abs/2312.04005](https://ieeexplore.ieee.org/document/10067023)](https://ieeexplore.ieee.org/document/10067023))
@@ -43,8 +46,8 @@ Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can c
 - *2022.05*, SW Capstone Design Competition, awarded by Hallym University
 - *2021.11*, Healthcare BigData Hackathon, awarded by Hallym University
 
-# 📖 Educations
-- *2019.03 - 2024.02*, Hallym University, Bachelor of Contents IT, Department of Software Convergence
+# 📖 Educations 
+- *2019.03 - 2023.02*, Department of Software Convergence at Hallym University.
 
 # 👏 Scholarships
 - *2021.03 - 2022.12*, Software Talent Scholarship, awarded by Hallym University
@@ -53,9 +56,9 @@ Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can c
 - *2020.09 - 2020.12*, Software Engineering Scholarship, awarded by Hallym University
 
 # 💻 Experience
-- *2023.04 - 2023.12*, Visual intelligence group @ [KIST]([https://www.kist.re.kr/ko/index.do])
-- *2022.08 - 2022.12*, Information & Communications Technology Lab @ [Purdue Univ.]([https://www.purdue.edu/])
-- *2021.06 - 2022.08*, MultiMedia Computing Lab @ [Hallym Univ.]([https://mmc.hallym.ac.kr/])
+- *2023.04 - 2023.12*, Visual intelligence group @ [KIST]([[https://www.kist.re.kr/ko/index.do](https://www.kist.re.kr/ko/index.do)])
+- *2022.08 - 2022.12*, Information & Communications Technology Lab @ [Purdue Univ.]([[https://www.purdue.edu/](https://www.purdue.edu/)])
+- *2021.06 - 2022.08*, MultiMedia Computing Lab @ [Hallym Univ.]([[https://mmc.hallym.ac.kr/](https://mmc.hallym.ac.kr/)])
 
 # ✏️ Online Course 
 - *2024.04 - 2024.12*, H-Mobility Class 자율주행 @ [H-Mobility-Class]([https://www.h-mobility-class.com/])
