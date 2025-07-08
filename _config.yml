@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yejin Lee"
   avatar           : "images/51157811.jpeg"
-  bio              : "Hallym Univ."
+  bio              : "SKKU Univ."
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nVjdl1EAAAAJ&hl=ko"
-  email            : "leeye0616@naver.com"
+  email            : "yet200025@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
