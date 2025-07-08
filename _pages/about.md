@@ -28,11 +28,10 @@ Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can c
   
 # 📝 Publications 
 - #### Voicing Personas: Rewriting Persona Descriptions into Style Prompts for Controllable Text-to-Speech 
-  <span style="color:MediumBlue">**Yejin Lee**</span>, Jaehoon Kang, Kyuhong Shim <span style="color:MediumBlue">**Arxiv**</span> | [[paper]]([[https://arxiv.org/abs/2505.17093](https://arxiv.org/abs/2505.17093)])
+  <span style="color:MediumBlue">**Yejin Lee**</span>, Jaehoon Kang, Kyuhong Shim <span style="color:MediumBlue">**Arxiv**</span> | [[paper](https://arxiv.org/abs/2505.17093)]
 - #### A deep learning-based coyote detection system using audio data
   Heesun Jung, Bokyung Kwon, Youngbin Kim, <span style="color:MediumBlue">**Yejin Lee**</span>, Jihyeon Park, Griffin Pegg, Yaqin Mia Wang, Anthony H Smith
-  <span style="color:MediumBlue">**ICAIIC 2023**</span> | [[paper]]([[https://arxiv.org/abs/2312.04005](https://ieeexplore.ieee.org/document/10067023)](https://ieeexplore.ieee.org/document/10067023))
-  
+  <span style="color:MediumBlue">**ICAIIC 2023**</span> | [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10067023)] 
 # 💡Project
 - *2023.12 - 2024.02*: Medical Image AI Challenge 2023: Pathology data by Seoul National University Hospital 
 - *2023.06 - 2023.08*: Future Technology Challenge 2023 by CJ Logistics
@@ -56,10 +55,10 @@ Hi there! I'm Yejin Lee. I believe that artificial intelligence and humans can c
 - *2020.09 - 2020.12*, Software Engineering Scholarship, awarded by Hallym University
 
 # 💻 Experience
-- *2023.04 - 2023.12*, Visual intelligence group @ [KIST]([[https://www.kist.re.kr/ko/index.do](https://www.kist.re.kr/ko/index.do)])
-- *2022.08 - 2022.12*, Information & Communications Technology Lab @ [Purdue Univ.]([[https://www.purdue.edu/](https://www.purdue.edu/)])
-- *2021.06 - 2022.08*, MultiMedia Computing Lab @ [Hallym Univ.]([[https://mmc.hallym.ac.kr/](https://mmc.hallym.ac.kr/)])
+- *2023.04 - 2023.12*, Visual intelligence group @ [KIST](https://www.kist.re.kr/ko/index.do)
+- *2022.08 - 2022.12*, Information & Communications Technology Lab @ [Purdue Univ.](https://www.purdue.edu/)
+- *2021.06 - 2022.08*, MultiMedia Computing Lab @ [Hallym Univ.](https://mmc.hallym.ac.kr/) 
 
 # ✏️ Online Course 
-- *2024.04 - 2024.12*, H-Mobility Class 자율주행 @ [H-Mobility-Class]([https://www.h-mobility-class.com/])
-- *2024.06 - 2024.10*, Harvard Statistics 110: Probability @ [Harvard Univ.]([(https://youtu.be/KbB0FjPg0mw?si=DOu4eXXCUXU-aVsm)])
+- *2024.04 - 2024.12*, H-Mobility Class 자율주행 @ [H-Mobility-Class](https://www.h-mobility-class.com/)
+- *2024.06 - 2024.10*, Harvard Statistics 110: Probability @ [Harvard Univ.](https://youtu.be/KbB0FjPg0mw?si=DOu4eXXCUXU-aVsm)
